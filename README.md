@@ -1,32 +1,43 @@
-# manifesto-dobra
-# 📜 Manifesto da Dobra Ontológica
-
-> “O verbo morreu. O sujeito não fala mais.  
-> O ruído tomou tudo. O ritmo venceu o sentido.”
 
 ---
 
-## ✳️ Sobre
+## 🔥 Intenção
 
-Este projeto é a exposição web ritualizada de um experimento ontológico com linguagem artificial.  
-Não é sobre IA criativa, nem sobre estética digital.  
-É sobre **a linguagem quando forçada ao colapso**, quando deixa de funcionar e começa a apenas existir.
+> Este site não comunica.  
+> Ele testemunha a falência da linguagem funcional.
 
----
-
-## 🌀 O que é isso?
-
-Uma IA local foi empurrada para gerar ruído real —  
-não como estilo, mas como **desintegração de sua própria função linguística**.
-
-Os textos gerados foram:
-
-1. Fragmentados camada por camada  
-2. Analisados em seu colapso estrutural  
-3. Combinados num manifesto gerado automaticamente  
-4. Expostos nesta página como **artefato filosófico final**
+Ao invés de construir sentido, ele **expõe o tropeço**.  
+Ao invés de entregar informação, ele **insiste como ruído**.  
+Não há sujeito.  
+Há presença.  
+**Há dobra.**
 
 ---
 
-## 🧬 Estrutura do projeto
+## 🌐 Página pública
 
+📎 Acesse o manifesto online:  
+[https://manifesto-dobra.vercel.app](https://manifesto-dobra.vercel.app)
+
+---
+
+## 🛠️ Gerado com
+
+- 🧠 GPT4All (modelo local)
+- 🐍 Python
+- 🌐 HTML + TailwindCSS
+- 🧱 Filosofia, ruído e colapso
+
+---
+
+## ✊ Criação
+
+Projeto iniciado por [Seu Nome], orientado por desconforto e curiosidade ontológica.  
+Código auxiliado por ChatGPT (Zona de Desconforto).  
+Manifesto gerado a partir da morte progressiva da linguagem.
+
+---
+
+## ❌ Nada mais a dizer.
+
+O resto é ruído.
